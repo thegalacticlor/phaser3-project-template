@@ -1,0 +1,164 @@
+{
+    "frames": [
+        {
+            "filename": "iconblackhole",
+            "frame": {
+                "w": 600,
+                "h": 600,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "iconsun2",
+            "frame": {
+                "w": 600,
+                "h": 600,
+                "x": 0,
+                "y": 600
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "iconneptune2",
+            "frame": {
+                "w": 600,
+                "h": 600,
+                "x": 0,
+                "y": 1200
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "iconnebula2",
+            "frame": {
+                "w": 600,
+                "h": 600,
+                "x": 0,
+                "y": 1800
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "iconneptune",
+            "frame": {
+                "w": 600,
+                "h": 600,
+                "x": 0,
+                "y": 2400
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "iconjuno",
+            "frame": {
+                "w": 600,
+                "h": 600,
+                "x": 0,
+                "y": 3000
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "iconjuno2",
+            "frame": {
+                "w": 600,
+                "h": 600,
+                "x": 0,
+                "y": 3600
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "iconsun",
+            "frame": {
+                "w": 600,
+                "h": 600,
+                "x": 0,
+                "y": 4200
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "iconcomit",
+            "frame": {
+                "w": 600,
+                "h": 600,
+                "x": 0,
+                "y": 4800
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "iconnebula",
+            "frame": {
+                "w": 600,
+                "h": 600,
+                "x": 0,
+                "y": 5400
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "iconblackhole2",
+            "frame": {
+                "w": 600,
+                "h": 600,
+                "x": 0,
+                "y": 6000
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "iconcomit2",
+            "frame": {
+                "w": 600,
+                "h": 600,
+                "x": 0,
+                "y": 6600
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

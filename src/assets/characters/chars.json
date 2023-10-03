@@ -1,0 +1,99 @@
+{
+    "frames": [
+        {
+            "filename": "charjuno",
+            "frame": {
+                "w": 800,
+                "h": 600,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "charnebula",
+            "frame": {
+                "w": 800,
+                "h": 600,
+                "x": 0,
+                "y": 600
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "charsun",
+            "frame": {
+                "w": 800,
+                "h": 600,
+                "x": 0,
+                "y": 1200
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "charcomit",
+            "frame": {
+                "w": 800,
+                "h": 600,
+                "x": 0,
+                "y": 1800
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "charblackhole",
+            "frame": {
+                "w": 800,
+                "h": 600,
+                "x": 0,
+                "y": 2400
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "charneptune",
+            "frame": {
+                "w": 800,
+                "h": 600,
+                "x": 0,
+                "y": 3000
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "charselect",
+            "frame": {
+                "w": 800,
+                "h": 600,
+                "x": 0,
+                "y": 3600
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}
